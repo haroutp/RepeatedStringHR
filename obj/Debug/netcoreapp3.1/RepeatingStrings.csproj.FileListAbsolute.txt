@@ -1,0 +1,12 @@
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/bin/Debug/netcoreapp3.1/RepeatingStrings.deps.json
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/bin/Debug/netcoreapp3.1/RepeatingStrings.runtimeconfig.json
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/bin/Debug/netcoreapp3.1/RepeatingStrings.runtimeconfig.dev.json
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/bin/Debug/netcoreapp3.1/RepeatingStrings.dll
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/bin/Debug/netcoreapp3.1/RepeatingStrings.pdb
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.csprojAssemblyReference.cache
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.csproj.CoreCompileInputs.cache
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.AssemblyInfoInputs.cache
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.AssemblyInfo.cs
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.dll
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.pdb
+/Users/haroutparseghian/Desktop/HR/RepeatingStrings/obj/Debug/netcoreapp3.1/RepeatingStrings.genruntimeconfig.cache
